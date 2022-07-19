@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Ever
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Everardo
+- 👀 I’m interested in Programing 
+- 😁 I am Student
+- 📫 How to reach me guali2013@gmail.com
+-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+                                                                             WELCOME 
+-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨                                                                             
 
 <!---
 Ever/Ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
